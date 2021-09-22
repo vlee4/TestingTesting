@@ -1,0 +1,11 @@
+{
+  "name": "testingtesting",
+  "version": "1.0.0",
+  "description": "trying out testing with jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vlee4",
+  "license": "ISC"
+}
